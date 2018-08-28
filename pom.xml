@@ -5,6 +5,9 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
   <properties>
+
+  11111111111111111111111111111111
+  222222222222222222222222222
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java.verison>1.8</java.verison>
 		<mybatis.version>3.2.7</mybatis.version>
